@@ -12,7 +12,7 @@ Run the setup script from the root of your git repo.
 curl -s https://raw.githubusercontent.com/wbreza/pre-commit-hooks/main/detect-secrets/scripts/setup.sh | bash
 ```
 
-> Not comftable executing a remote script?  I get it.  Feel free to review it [here](https://github.com/wbreza/pre-commit-hooks/blob/dev/detect-secrets/scripts/setup.sh).
+> Not comfortable executing a remote script?  I get it.  Feel free to review it [here](https://github.com/wbreza/pre-commit-hooks/blob/dev/detect-secrets/scripts/setup.sh).
 
 The setup script performs the following:
 
